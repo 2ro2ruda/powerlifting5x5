@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 5x5 Strength Planner",
+  "description": "파워리프팅 무게 증량 및 1RM 향상을 위한 4주차 5x5 운동 플래너 및 기록 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
